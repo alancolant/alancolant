@@ -10,11 +10,6 @@ I'm a developer interested in Linux, Golang, PHP, and web/server management.
 
 Thanks for stopping by and checking out my profile!
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancolant&hide=html)](https://github.com/alancolant)
-
-
 
 
 
